@@ -1,4 +1,4 @@
-# Resume template for coders who can't design good.
+## Resume template for coders who can't design good.
 
 ### Summary
 
